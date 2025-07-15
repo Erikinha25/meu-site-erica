@@ -13,14 +13,14 @@ header {
   background-color: #d43f8d;
   color: #fff;
   padding: 40px 20px;
-  text-align: center;
+  text-align: centralizar;
 }
 
 /* Nome */
 header h1 {
   margin: 0 0 10px 0;
   font-size: 36px;
-  text-align: center;
+  text-align: centralizar;
 }
 
 /* Subtítulo */
